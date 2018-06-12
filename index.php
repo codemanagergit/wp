@@ -17,8 +17,6 @@ $i=1;
 echo $i;
 
 echo "test for add";
-
-2 nd commit;
         ?>
     </body>
 </html>
